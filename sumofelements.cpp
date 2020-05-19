@@ -1,3 +1,6 @@
+//Program to find sum of elements in a given array
+//Given an array of integers, find sum of its elements.
+
 #include<iostream>
 using namespace std;
 

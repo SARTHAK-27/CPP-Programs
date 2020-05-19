@@ -1,3 +1,6 @@
+//Program to find largest element in an array
+//Given an array, find the largest element in it.
+
 #include<iostream>
 using namespace std;
 
