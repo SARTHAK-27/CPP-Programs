@@ -26,7 +26,7 @@ int print2Smallest(int arr[], int arr_size){
         cout<<"There is no second smallest number";
     }
     else{
-        cout<<"The smalesst number is "<<first<<" and the seond smallest is "<<second<<endl;
+        cout<<"The smallest number is "<<first<<" and the seond smallest is "<<second<<endl;
     }
 }
 

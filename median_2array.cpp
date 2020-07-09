@@ -25,8 +25,7 @@ int getMedian(int ar1[],
 	if (n <= 0) 
 		return -1; 
 	if (n == 1) 
-		return (ar1[0] + 
-				ar2[0]) / 2; 
+		return (ar1[0] + ar2[0]) / 2; 
 	if (n == 2) 
 		return (max(ar1[0], ar2[0]) + 
 				min(ar1[1], ar2[1])) / 2; 
